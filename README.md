@@ -17,18 +17,24 @@ $ cp github-vscode-theme/themes/dark.json custom-vscode-theme/src/dark.json
 # Get VSCode theme
 $ cd custom-vscode-theme/src
 $ wget https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_modern.json https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_plus.json https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_vs.json https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/light_modern.json https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/light_plus.json https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/light_vs.json
+
+# Install local
+$ cp -rf ../custom-vscode-theme $HOME/.vscode/extensions/
+$ cp -rf ../custom-vscode-theme $HOME/.vscode-insiders/extensions/
 ```
 
 Themes:
 * GitHub Light for Light
   * from '`@primer/github-vscode-theme/light`'
-  * modified `statusBar` to be like '`@microsoft/vscode/dark_modern`'
+  * modified `statusBar` to be like '`@microsoft/vscode/dark_vs`'
 * GitHub Light for Dark 
   * from '`@primer/github-vscode-theme/light`'
-  * modified `statusBar` to be like '`@microsoft/vscode/dark_modern`'
-  * modified `titleBar` to be like '@primer/github-vscode-theme/dark'
+  * modified `statusBar` to be like '`@microsoft/vscode/dark_vs`'
+  * modified `titleBar` to be like '`@primer/github-vscode-theme/dark`'
 * Default Dark Modern for Light
   * from '`@microsoft/vscode/dark_modern`'
+  * modified `statusBar` to be like '`@microsoft/vscode/dark_vs`'
   * modified `titleBar` to be like '`@@microsoft/vscode/light_modern`'
 * Default Dark Modern for Dark 
   * from '`@microsoft/vscode/dark_modern`'
+  * modified `statusBar` to be like '`@microsoft/vscode/dark_vs`'

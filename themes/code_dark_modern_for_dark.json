@@ -1,5 +1,33 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-  "name": "Code Dark Modern for Dark",
-	"include": "../src/dark_modern.json"
+	"name": "Code Dark Modern for Dark",
+	"include": "../src/dark_modern.json",
+	"colors": {
+		// statusBar
+		"statusBar.background": "#007acc",
+		"statusBar.foreground": "#ffffff",
+		"statusBar.focusBorder": "#ffffff",
+		"statusBar.border": null,
+		"statusBar.debuggingBorder": null,
+		"statusBar.noFolderBorder": null,
+		"statusBar.debuggingBackground": "#cc6633",
+		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.noFolderBackground": "#68217a",
+		"statusBar.noFolderForeground": "#ffffff",
+		"statusBar.offlineBackground": "#6c1717",
+		"statusBar.offlineForeground": "#ffffff",
+		"statusBarItem.activeBackground": "#ffffff2e",
+		"statusBarItem.compactHoverBackground": "#ffffff33",
+		"statusBarItem.errorBackground": "#c72e0f",
+		"statusBarItem.errorForeground": "#ffffff",
+		"statusBarItem.focusBorder": "#ffffff",
+		"statusBarItem.hoverBackground": "#ffffff1f",
+		"statusBarItem.prominentBackground": "#003d66",
+		"statusBarItem.prominentForeground": "#ffffff",
+		"statusBarItem.prominentHoverBackground": "#0000004d",
+		"statusBarItem.warningBackground": "#7a6400",
+		"statusBarItem.warningForeground": "#ffffff",
+		"statusBarItem.remoteBackground": "#16825d",
+		"statusBarItem.remoteForeground": "#ffffff",
+	}
 }
