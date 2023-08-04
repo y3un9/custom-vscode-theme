@@ -18,12 +18,12 @@
       },
       {
         "label": "GitHub Light for Dark",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/github_light_for_dark.json"
       },
       {
         "label": "Code Dark Modern for Light",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/code_dark_modern_for_light.json"
       },
       {
