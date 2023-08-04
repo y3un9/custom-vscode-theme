@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "subway-samurai-theme" extension will be documented in this file.
+All notable changes to the "custom-vscode-theme" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
@@ -15,5 +15,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Add theme "Code Dark Modern for Light"
 - Add theme "Code Dark Modern for Dark"
 
-[unreleased]: https://github.com/y3un9/subway-samurai-theme/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/y3un9/subway-samurai-theme/release/tag/v1.0.0
+[unreleased]: https://github.com/y3un9/custom-vscode-theme/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/y3un9/custom-vscode-theme/release/tag/v1.0.0

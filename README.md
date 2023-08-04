@@ -1,4 +1,4 @@
-# subway-samurai-theme README
+# custom-vscode-theme README
 
 ## Working with Markdown
 

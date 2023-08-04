@@ -11,11 +11,11 @@ $ git clone https://github.com/primer/github-vscode-theme.git
 $ cd github-vscode-theme
 $ yarn install
 $ yarn build
-$ cp github-vscode-theme/themes/light.json subway-samurai-theme/src/light.json
-$ cp github-vscode-theme/themes/dark.json subway-samurai-theme/src/dark.json
+$ cp github-vscode-theme/themes/light.json custom-vscode-theme/src/light.json
+$ cp github-vscode-theme/themes/dark.json custom-vscode-theme/src/dark.json
 
 # Get VSCode theme
-$ cd subway-samurai-theme/src
+$ cd custom-vscode-theme/src
 $ wget https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_modern.json https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_plus.json https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_vs.json https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/light_modern.json https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/light_plus.json https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/light_vs.json
 ```
 
