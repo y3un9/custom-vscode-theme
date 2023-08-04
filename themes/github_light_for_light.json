@@ -1,0 +1,18 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+  "name": "GitHub Light",
+	"include": "../src/light.json",
+	"colors": {
+		"statusBar.background": "#181818",
+		"statusBar.border": "#2B2B2B",
+		"statusBar.debuggingBackground": "#0078D4",
+		"statusBar.debuggingForeground": "#FFFFFF",
+		"statusBar.focusBorder": "#0078D4",
+		"statusBar.foreground": "#CCCCCC",
+		"statusBar.noFolderBackground": "#1F1F1F",
+		"statusBarItem.focusBorder": "#0078D4",
+		"statusBarItem.prominentBackground": "#6E768166",
+		"statusBarItem.remoteBackground": "#0078D4",
+		"statusBarItem.remoteForeground": "#FFFFFF",
+	}
+}

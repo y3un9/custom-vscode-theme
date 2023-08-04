@@ -1,0 +1,36 @@
+{
+  "name": "subway-samurai-theme",
+  "displayName": "Subway Samurai Theme",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GitHub Light for Light",
+        "uiTheme": "vs",
+        "path": "./themes/github_light_for_light.json"
+      },
+      {
+        "label": "GitHub Light for Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github_light_for_dark.json"
+      },
+      {
+        "label": "Code Dark Modern for Light",
+        "uiTheme": "vs",
+        "path": "./themes/code_dark_modern_for_light.json"
+      },
+      {
+        "label": "Code Dark Modern for Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code_dark_modern_for_dark.json"
+      }
+    ]
+  }
+}

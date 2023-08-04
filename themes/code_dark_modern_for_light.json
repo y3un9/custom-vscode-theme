@@ -1,0 +1,12 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+  "name": "Code Dark Modern for Light",
+	"include": "../src/dark_modern.json",
+	"colors": {
+		"titleBar.activeBackground": "#F8F8F8",
+		"titleBar.activeForeground": "#1E1E1E",
+		"titleBar.border": "#E5E5E5",
+		"titleBar.inactiveBackground": "#F8F8F8",
+		"titleBar.inactiveForeground": "#8B949E",
+	}
+}
